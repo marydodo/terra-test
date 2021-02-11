@@ -6,7 +6,7 @@
 
 [x] Initialize a Terraform + Docker project
 
-[x] Provision NGINX server container
+[x] Provision NGINX server container using Docker
 
 [x] Verify existance of NGINX containter ( achieve "Welcome to NGINX" message)
 
