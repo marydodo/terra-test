@@ -12,3 +12,9 @@ Terraform Basics. Installing Terraform.
 [] Verify existance of NGINX containter ( achieve "Welcome to NGINX" message)
 
 [] Destroy NGINX container
+
+Questions, comments, issues, etc:
+
+What is Terraform doing?
+
+What kinds of problems does Terraform solve?
