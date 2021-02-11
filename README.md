@@ -1,19 +1,38 @@
-# Terraform Basics. Installing Terraform.
+## Terraform Basics. Installing Terraform.
 
-[x] Install Terraform binary
+[/] Install Terraform binary
 
-[x] Install Docker Desktop for Windows
+[/] Install Docker Desktop for Windows
 
-[x] Initialize a Terraform + Docker project
+[/] Initialize a Terraform + Docker project
 
-[x] Provision NGINX server container using Docker
+[/] Provision NGINX server container using Docker
 
-[x] Verify existance of NGINX containter ( achieve "Welcome to NGINX" message)
+[/] Verify existence of NGINX container ( achieve "Welcome to NGINX" message)
 
-[x] Destroy NGINX container
+[/] Destroy Docker NGINX container
 
-### Questions, comments, issues, etc:
+### Questions, comments, concerns, etc:
 
-#### Infrastucture as Code with Terraform - What is Terraform doing?
+#### Infrastructure as Code with Terraform - What is Terraform doing?
+
+Terraform can be used to build, change, and version infrastructure. This allows the ability to manage existing service providers like AWS or GCP or custom solutions. Terraform works by using configuration files to define parts required to run an application or datacenter. Terraform creates a plan to describe what needs to happen to reach a desired state, then performs the build as described in the plan.
+
+Main features of Terraform:
+
+* Infrastructure as Code
+ - Infrastructure as code is a high-level configuration syntax that works as a versioned map of the datacenter and can be shared and re-used. You tread the versioned maps as any other code.
+
+* Execution Plans
+  - This is the planning step. The plan created shows what Terraform will do when you run an apply. You can see everything that is about to happen.
+
+* Resource Graph
+  - A graph showing all creation and modifications of non-dependent resources.
+
+* Change Automation
+  - Using execution plan and resource graph, the map of what Terraform will change in what order helps avoid any possible human errors.
+
 
 #### Advantages of Terraform - What kinds of problems does Terraform solve?
+
+Terraform can help manage different environments which similar configurations.
