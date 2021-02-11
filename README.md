@@ -15,6 +15,6 @@ Terraform Basics. Installing Terraform.
 
 Questions, comments, issues, etc:
 
-What is Terraform doing?
+Infrastucture as Code with Terraform - What is Terraform doing?
 
-What kinds of problems does Terraform solve?
+Advantages of Terraform - What kinds of problems does Terraform solve?
