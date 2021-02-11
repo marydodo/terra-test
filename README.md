@@ -1,19 +1,24 @@
-# Terraform Basics. Installing Terraform.
+## Terraform Basics. Installing Terraform.
 
-[x] Install Terraform binary
+[/] Install Terraform binary
 
-[x] Install Docker Desktop for Windows
+[/] Install Docker Desktop for Windows
 
-[x] Initialize a Terraform + Docker project
+[/] Initialize a Terraform + Docker project
 
-[x] Provision NGINX server container using Docker
+[/] Provision NGINX server container using Docker
 
-[x] Verify existance of NGINX containter ( achieve "Welcome to NGINX" message)
+[/] Verify existence of NGINX container ( achieve "Welcome to NGINX" message)
 
-[x] Destroy NGINX container
+[/] Destroy Docker NGINX container
 
-### Questions, comments, issues, etc:
+### Questions, comments, concerns, etc:
 
-#### Infrastucture as Code with Terraform - What is Terraform doing?
+#### Infrastructure as Code with Terraform - What is Terraform doing?
+
+Terraform can be used to provision, adjust, and manage infrastructure by declaring components in configuration files for various cloud providers like AWS or GCP. 
+
 
 #### Advantages of Terraform - What kinds of problems does Terraform solve?
+
+Terraform can help manage different environments which similar configurations.
