@@ -1,17 +1,17 @@
 # terra-test
 Terraform Basics. Installing Terraform.
 
-[] Install Terraform binary
+[x] Install Terraform binary
 
-[] Install Docker Desktop for Windows
+[x] Install Docker Desktop for Windows
 
-[] Initialize a Terraform + Docker project
+[x] Initialize a Terraform + Docker project
 
-[] Provision NGINX server container
+[x] Provision NGINX server container
 
-[] Verify existance of NGINX containter ( achieve "Welcome to NGINX" message)
+[x] Verify existance of NGINX containter ( achieve "Welcome to NGINX" message)
 
-[] Destroy NGINX container
+[x] Destroy NGINX container
 
 Questions, comments, issues, etc:
 
