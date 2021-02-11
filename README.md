@@ -1,5 +1,4 @@
-# terra-test
-Terraform Basics. Installing Terraform.
+# Terraform Basics. Installing Terraform.
 
 [x] Install Terraform binary
 
@@ -13,8 +12,8 @@ Terraform Basics. Installing Terraform.
 
 [x] Destroy NGINX container
 
-Questions, comments, issues, etc:
+### Questions, comments, issues, etc:
 
-Infrastucture as Code with Terraform - What is Terraform doing?
+#### Infrastucture as Code with Terraform - What is Terraform doing?
 
-Advantages of Terraform - What kinds of problems does Terraform solve?
+#### Advantages of Terraform - What kinds of problems does Terraform solve?
