@@ -41,6 +41,6 @@ terraform apply - terraform will talk to Docker and perform actions as described
 terraform destroy - terraform will destroy the instance that was created
 
 
-#### Advantages of Terraform - What kinds of problems does Terraform solve?
+## Advantages of Terraform - What kinds of problems does Terraform solve?
 
 Terraform can help manage different environments which similar configurations.
