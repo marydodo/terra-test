@@ -12,9 +12,9 @@
 
 [/] Destroy Docker NGINX container
 
-### Questions, comments, concerns, etc:
+## Questions, comments, concerns, etc:
 
-#### Infrastructure as Code with Terraform - What is Terraform doing?
+### Infrastructure as Code with Terraform - What is Terraform doing?
 
 Terraform can be used to build, change, and version infrastructure. This allows the ability to manage existing service providers like AWS or GCP or custom solutions. Terraform works by using configuration files to define parts required to run an application or datacenter. Terraform creates a plan to describe what needs to happen to reach a desired state, then performs the build as described in the plan.
 
