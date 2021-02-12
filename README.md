@@ -21,7 +21,7 @@ Terraform can be used to build, change, and version infrastructure. This allows 
 Main features of Terraform:
 
 #### Infrastructure as Code
-- Infrastructure as code is a high-level configuration syntax that works as a versioned map of the datacenter and can be shared and re-used. You tread the versioned maps as any other code.
+- Infrastructure as code is a high-level configuration syntax that works as a versioned map of the datacenter and can be shared and re-used. You treat the versioned maps as any other code.
 
 #### Execution Plans
 - This is the planning step. The plan created shows what Terraform will do when you run an apply. You can see everything that is about to happen.
@@ -32,13 +32,13 @@ Main features of Terraform:
 #### Change Automation
  - Using execution plan and resource graph, the map of what Terraform will change in what order helps avoid any possible human errors.
 
-In this test, I asked terraform to use docker locally to start up a container with NGINX.
+In this test, I asked Terraform to use docker locally to start up a container with NGINX.
 
-terraform init - terraform downloads execute map and readies to talk to Docker
+terraform init - Terraform downloads execute map and readies to talk to Docker
 
-terraform apply - terraform will talk to Docker and perform actions as described in execute map
+terraform apply - Terraform will talk to Docker and perform actions as described in execute map.
 
-terraform destroy - terraform will destroy the instance that was created
+terraform destroy - Terraform will destroy the instance that was created
 
 
 ## Advantages of Terraform - What kinds of problems does Terraform solve?
